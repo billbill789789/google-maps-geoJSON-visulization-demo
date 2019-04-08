@@ -1,2 +1,2 @@
-# google-maps-geoJSON-visulization-demo
-This project displays markers on Google maps by uploading geoJSON
+# NY-CitiBike-usage-frequence-visualization
+This project visualizes processed CitiBike usage geo-data on Google Maps
